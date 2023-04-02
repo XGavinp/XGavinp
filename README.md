@@ -4,9 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=your-XGavinp&color=blueviolet)
 
-### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-XGavinp
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=XGavinp)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=XGavinp&layout=compact)
