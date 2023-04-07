@@ -6,8 +6,6 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=XGavinp)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=XGavinp &layout=compact)
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=XGavinp&theme=lowcontrast&show_icons=true&count_private=true)
 
 ### :hammer_and_wrench: Languages and Tools :
