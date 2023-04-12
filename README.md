@@ -1,3 +1,8 @@
+### Hello There 👋
+
+My Name is Gavin Pereira
+Nice to Meet you.
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
