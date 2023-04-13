@@ -12,8 +12,6 @@ Nice to Meet you.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=XGavinp)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=XGavinp&theme=lowcontrast&show_icons=true&count_private=true)
-
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=XGavinp&show_icons=true&theme=tokyonight)
 
 ### :hammer_and_wrench: Languages and Tools :
