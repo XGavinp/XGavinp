@@ -6,7 +6,7 @@ Nice to Meet you.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gavin-pereira-61223621a/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="XGavinp" height="60" width="90" /></a>
+<a href="https://www.linkedin.com/in/gavin-pereira-61223621a/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="XGavinp" height="60" width="100" /></a>
 </p>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
