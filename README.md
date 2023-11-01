@@ -14,7 +14,7 @@ Nice to Meet you.
 
 ![](https://komarev.com/ghpvc/?username=your-XGavinp&color=blueviolet)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=XGavinp&langs_count=100)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Gavinp&langs_count=100)
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=XGavinp&show_icons=true&theme=tokyonight)
 
