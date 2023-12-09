@@ -37,3 +37,10 @@ Nice to Meet you.
 
 ### Languages Currently that I Know:
 [![My Skills](https://skillicons.dev/icons?i=c,python,java,js,html,css,mysql)](https://skillicons.dev)
+
+
+<p align="center"> 
+  Visitor count<br>
+  <a href="https://ra1nbow.xyz?ref=github">
+    <img src="https://profile-counter.glitch.me/XGavinp/count.svg" />
+  </a>
