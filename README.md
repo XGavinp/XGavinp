@@ -18,7 +18,7 @@ Nice to Meet you.
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=XGavinp&show_icons=true&theme=tokyonight)
 
-### :hammer_and_wrench: Languages and Tools I Use :
+### Languages and Tools I Use :
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
