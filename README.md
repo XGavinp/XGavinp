@@ -12,7 +12,6 @@ Nice to Meet you.
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=your-XGavinp&color=blueviolet)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=XGavinp&langs_count=100)
 
