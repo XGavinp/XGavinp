@@ -12,8 +12,7 @@ Nice to Meet you.
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=XGavinp&langs_count=100)
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XGavinp&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 ### Languages and Tools I Use :
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
