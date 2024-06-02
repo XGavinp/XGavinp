@@ -1,4 +1,4 @@
-### Guten Morgen 👋
+ ### Guten Morgen 👋
 
 <h1 align="center">My Name is Gavin Pereira</h1>
 
@@ -38,7 +38,7 @@ Nice to Meet you.
 <p align="center"> 
   Visitor count<br>
   <a href="https://ra1nbow.xyz?ref=github">
-    <img src="https://profile-counter.glitch.me/XGavinp/count.svg" />
+    <img src="https://profile-counter.glitch.me/XGavinp/count.svg"  loading="lazy" />
   </a>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
