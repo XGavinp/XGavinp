@@ -8,9 +8,8 @@ Nice to Meet you.
 <p align="left">
 <a href="https://www.linkedin.com/in/gavin-pereira-61223621a/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="XGavinp" height="60" width="120" /></a>
 </p>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XGavinp&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
@@ -38,7 +37,5 @@ Nice to Meet you.
 <p align="center"> 
   Visitor count<br>
   <a href="https://ra1nbow.xyz?ref=github">
-    <img src="https://profile-counter.glitch.me/XGavinp/count.svg"  loading="lazy" />
+    <img src="https://profile-counter.glitch.me/XGavinp/count.svg"/>
   </a>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
