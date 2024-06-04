@@ -16,7 +16,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PAT}}
           USERNAME: XGavinp
-          MAX_LANGUAGES: 12
       - name: Commit & Push
         run: |
           git config user.name github-actions
