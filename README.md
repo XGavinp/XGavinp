@@ -29,6 +29,7 @@ Nice to Meet you.
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/node-ar21.svg"></code>
 
 ### Languages Currently that I Know:
 [![My Skills](https://skillicons.dev/icons?i=c,python,java,js,html,css,mysql,react)](https://skillicons.dev)
